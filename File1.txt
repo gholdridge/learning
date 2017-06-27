@@ -3,3 +3,4 @@ Additional line for file 1
 Another line
 Amended changes
 v2.0 branch
+Changes after latest pull
