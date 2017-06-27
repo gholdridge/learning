@@ -1,1 +1,2 @@
 File 3 data
+Stashed change to file 3
